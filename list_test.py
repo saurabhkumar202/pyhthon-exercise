@@ -5,7 +5,7 @@ def test_list():
 
 
 def test_sorted_list():
-    x = [1, 2, 3, 4, 5]
+    x = [1, 2, 3, 4, 5, 6]
     x.reverse()
     print(x)
 
