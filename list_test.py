@@ -11,7 +11,7 @@ def test_sorted_list():
 
 
 def test_sorted_using_sorted_api_list():
-    x = [9, 8, 7, 6, 5, 6, 7]
+    x = [9, 8, 7, 6, 5, 6, 7, 8]
     for temp in sorted(x, key=None, reverse=True):
         print(temp)
     print(x)
